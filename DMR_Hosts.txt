@@ -37,18 +37,18 @@ BM_5051_Australia		  5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 # Name				      DMR-ID	IP/Hostname			    	Password	Port #
 ######################################################################################################
-DMR_SAYA              0000  103.187.106.224 passw0rd	62030
-DMR_KRAP              0000  103.174.114.231 passw0rd	62030
+DMR_SAYA              0000  103.187.106.224 passw0rd  62030
+DMR_KRAP              0000  103.174.114.231 passw0rd  62030
 HB_DMRID1             0000  103.187.147.208 passw0rd  62030
 HB_DMRID2             0000  103.172.204.165 passw0rd  62031
-LANGKAT               0000  101.50.0.209    passw0rd	62030
-MANOKWARI             0000  125.160.170.6   passw0rd	62030
-HB_ID_K2PI_NUSANTARA  0000  103.163.139.80  passw0rd	62031
-HB_ID_K2PI_INDONESIA  0000  156.67.217.55   passw0rd	62031
-HB_ID_K2PI_DMRID      0000  156.67.217.55   passw0rd	62041
-HB_ID_K2PI_RIAU1      0000  156.67.217.55   passw0rd	62035
-HB_ID_K2PI_RIAU2      0000  156.67.217.55   passw0rd	62036
-HB_ID_K2PI_INTER      0000  156.67.217.55   passw0rd	62037
-HB_ID_K2PI_PELALAWAN  0000  156.67.217.55   passw0rd	62038
-HB_ID_K2PI_EXPERIMENT 0000  156.67.217.55   k2piexp	  62040
+LANGKAT               0000  101.50.0.209    passw0rd  62030
+MANOKWARI             0000  125.160.170.6   passw0rd  62030
+HB_ID_K2PI_NUSANTARA  0000  103.163.139.80  passw0rd  62031
+HB_ID_K2PI_INDONESIA  0000  156.67.217.55   passw0rd  62031
+HB_ID_K2PI_DMRID      0000  156.67.217.55   passw0rd  62041
+HB_ID_K2PI_RIAU1      0000  156.67.217.55   passw0rd  62035
+HB_ID_K2PI_RIAU2      0000  156.67.217.55   passw0rd  62036
+HB_ID_K2PI_INTER      0000  156.67.217.55   passw0rd  62037
+HB_ID_K2PI_PELALAWAN  0000  156.67.217.55   passw0rd  62038
+HB_ID_K2PI_EXPERIMENT 0000  156.67.217.55   k2piexp   62040
 ######################################################################################################
