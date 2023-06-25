@@ -21,5 +21,4 @@ cat /tmp/DMRIdsKRAP.dat >> /usr/local/etc/DMRIds.dat
                                                                                                                                                      
 sed -i 's/Indonesia;ID;YB-YC-YD-YE-YF-YG-YH/Indonesia;ID;YB-YC-YD-YE-YF-YG-YH-JZ/g' /usr/local/etc/country.csv
 
-curl --fail -L -o /tmp/DMR_HostsKRAP.txt -s https://raw.githubusercontent.com/zaldyrs/DMRsaya/main/DMR_Hosts.txt
-cat /tmp/DMR_HostsKRAP.txt >> /usr/local/etc/DMR_Hosts.txt
+
