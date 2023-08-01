@@ -1,0 +1,1 @@
+curl --fail -L -o updatedmrid.sh https://raw.githubusercontent.com/zaldyrs/DMRsaya/main/updatedmrid.sh
